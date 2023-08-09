@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mdamir4298@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to read
+- linkedin: www.linkedin.com/in/
+md-amir-453836238
+
+
 
