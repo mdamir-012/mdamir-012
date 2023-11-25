@@ -44,8 +44,7 @@ md-amir-453836238
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdamir-012&" alt="mdamir-012" /></p>
 linkedin: www.linkedin.com/in/
-My Portfolio: https://mdamir-portfolio-1858f6.netlify.app
-
+My Portfolio: mdamir-012.github.io
 
 
 
