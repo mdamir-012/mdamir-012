@@ -69,7 +69,7 @@ md-amir-453836238
 
 <h2>🌍 Connect with me :</h2>
    <p align="left">
-   <a href="www.linkedin.com/in/md-amir-453836238" target="blank">
+   <a href="https://www.linkedin.com/in/md-amir-453836238/" target="blank">
             <img align="center"
                 src="https://img.icons8.com/3d-fluency/94/linkedin.png"
                 alt="www.linkedin.com/in/md-amir-453836238" width="40px" />
