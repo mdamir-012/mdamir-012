@@ -20,7 +20,9 @@ md-amir-453836238
 -->
 <img align="center" src="https://camo.githubusercontent.com/2a63ca5341c9dd769b3cf9c86d6e31c37c586cb6a32176b8797454aa683b500f/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966" alt="gif">
     <h1 align="center">Hi 👋, I'm Md Amir</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=500&height=50">
+</p>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="gif1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdamir-012&label=Profile%20views&color=0e75b6&style=flat" alt="mdamir-012" /> </p>
@@ -32,7 +34,7 @@ md-amir-453836238
 - ⚡ Fun fact **I think I am funny**
 
 <p align="left">
-<a href="https://linkedin.com/in/md amir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md amir" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-amir-453836238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md amir" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mdamir-012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mdamir-012" height="30" width="40" /></a>
 </p>
 
@@ -61,9 +63,17 @@ md-amir-453836238
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdamir-012&show_icons=true&locale=en" alt="mdamir-012" /></p>
+## ✅ Github Stats :
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdamir-012&" alt="mdamir-012" /></p>
+<div align="center" style="display: flex; flex-wrap: wrap;">
+
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=mdamir-012&theme=neon&border_radius=2.7&show_icons=true" alt="mdamir" />
+  
+<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdamir-012&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="mdamir" />
+  
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdamir-012&theme=neon&border_radius=2.7" alt="mdamir" />
+  
+</div>
 
 
 
