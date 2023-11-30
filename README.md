@@ -100,7 +100,7 @@ md-amir-453836238
     <hr />
     <h2><a href="https://mdamir-portfolio-hummingbird-70fb78.netlify.app/">🌍 | Portfolio </a></h2>
     
-linkedin: www.linkedin.com/in/
+
 My Portfolio: mdamir-012.github.io
 
 
