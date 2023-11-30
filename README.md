@@ -35,7 +35,6 @@ md-amir-453836238
 
 <p align="left">
 <a href="https://www.linkedin.com/in/md-amir-453836238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md amir" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mdamir-012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mdamir-012" height="30" width="40" /></a>
 </p>
 
 
@@ -98,10 +97,10 @@ md-amir-453836238
         <img src="https://img.shields.io/github/followers/mdamir-012?label=Followers&style=social" alt="GitHub Badge">
     </a>
     <hr />
-    <h2><a href="https://mdamir-portfolio-hummingbird-70fb78.netlify.app/">🌍 | Portfolio </a></h2>
+    <h2><a href="https://mdamir-012.github.io/">🌍 | Portfolio </a></h2>
     
 
-My Portfolio: mdamir-012.github.io
+My Portfolio: https://mdamir-012.github.io/
 
 
 
