@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - linkedin: www.linkedin.com/in/
 md-amir-453836238
 -->
-<img align="center" src="https://camo.githubusercontent.com/2a63ca5341c9dd769b3cf9c86d6e31c37c586cb6a32176b8797454aa683b500f/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966" alt="gif">
-    <h1 align="center">Hi 👋, I'm Md Amir</h1>
+
+<h1 align="center">Hi 👋, I'm Md Amir</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=500&height=50">
 </p>
